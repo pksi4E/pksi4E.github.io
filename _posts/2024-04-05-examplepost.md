@@ -12,3 +12,5 @@ with example content.
 a = "tekst"
 print(string.upper(a))
 {% endhighlight %}
+
+folder `lua`
