@@ -8,9 +8,10 @@ categories: example
 Example post
 with example content.
 
-{% highlight lua %}
+```lua
 a = "tekst"
 print(string.upper(a))
-{% endhighlight %}
+```
 
 folder `lua`
+teraz
