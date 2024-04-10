@@ -3,7 +3,7 @@ layout: post
 title: "examplePost"
 date: 2024-04-05
 categories: example
-permalink: /writeups/exPost
+permalink: /writeups/exPost.html
 ---
 
 Example post
