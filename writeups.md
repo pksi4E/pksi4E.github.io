@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Write-Ups"
-permalink: /writeups
+permalink: /writeups/
 ---
 
 Example writeup.
