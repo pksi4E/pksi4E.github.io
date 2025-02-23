@@ -17,3 +17,10 @@ print(string.upper(a))
 
 folder `lua`
 teraz
+
+```lua
+s = "abc123"
+string.endswith = function (s, str) return string.match(s, str .. "$") end
+s:endswith("123")
+> true
+```
